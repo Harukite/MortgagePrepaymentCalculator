@@ -1,6 +1,10 @@
 # 房贷提前还款计算器
 
 一个功能完整的房贷提前还款计算器，支持等额本息和等额本金两种还款方式，帮助用户计算提前还款后的利息节省和还款计划。
+<img width="1771" height="856" alt="image" src="https://github.com/user-attachments/assets/2abcf28d-9193-4de2-872c-6eed36a4185d" />
+
+<img width="1762" height="859" alt="image" src="https://github.com/user-attachments/assets/c3c57ab5-466c-4088-ad54-8f04c85dbb34" />
+
 
 ## ✨ 功能特性
 
