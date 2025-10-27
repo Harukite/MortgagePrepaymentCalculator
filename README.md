@@ -16,7 +16,6 @@
 - 🌙 **主题支持**：支持明暗主题切换
 - ⚡ **高性能**：基于 Vite 构建，快速开发体验
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Harukite/MortgagePrepaymentCalculator)
 
 ## 🚀 快速开始
 
